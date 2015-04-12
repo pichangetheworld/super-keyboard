@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuperKeyboard</string>
+    <string name="super_ime">Super IME</string>
+    <string name="subtype_en_US">English (US)</string>
+</resources>
